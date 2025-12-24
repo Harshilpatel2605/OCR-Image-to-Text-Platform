@@ -1,0 +1,5 @@
+pdfplumber
+easyocr
+numpy
+opencv-python
+python-docx
