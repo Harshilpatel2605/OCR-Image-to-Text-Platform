@@ -1,5 +1,12 @@
-pdfplumber
+fastapi
+uvicorn
 easyocr
-numpy
 opencv-python
+numpy
+pdfplumber
+pillow
 python-docx
+pymupdf
+reportlab
+nltk
+python-multipart
