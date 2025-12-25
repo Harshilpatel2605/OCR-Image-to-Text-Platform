@@ -61,8 +61,9 @@ Hackfusion/
 ├── uploads/                     # Temporary uploaded files
 ├── outputs/                     # Exported files
 ├── requirements.txt             # Python dependencies
-├── .gitignore                   # Git ignore rules (includes venv)
-└── README.md
+├── LICENSE                      # License file
+├── ProblemStatement.jpeg        # Problem statement document
+└── README.md                    # Project documentation
 ```
 
 ---
